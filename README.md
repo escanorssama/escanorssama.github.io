@@ -7,7 +7,7 @@ Script ucapan lebaran idul fitri 2023
 # Let's connect with me!
 <p>
     <a href="https://wafarifki.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-https://escanorssama.github.io-blue?" /></a>
-    <a href="https://www.linkedin.com/in/mustofa-kamal/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-WafaRifqiAnafin_-blue" /></a>
-    <a href="https://facebook.com/mustofa_kamall" target="_blank"><img src="https://img.shields.io/badge/Facebook-wafarifkianafin-blue" /></a>
-    <a href="https://instagram.com/mustofa_kamall" target="_blank"><img src="https://img.shields.io/badge/Instagram-@wafarifki_-blue" /></a>
+    <a href="https://www.linkedin.com/in/mustofa-kamal/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-mustofakamal_-blue" /></a>
+    <a href="https://facebook.com/mustofa_kamall" target="_blank"><img src="https://img.shields.io/badge/Facebook-mustofa kamal-blue" /></a>
+    <a href="https://instagram.com/mustofa_kamall" target="_blank"><img src="https://img.shields.io/badge/Instagram-mustofa_kamall-blue" /></a>
 </p> 
