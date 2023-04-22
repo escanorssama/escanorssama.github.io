@@ -2,7 +2,7 @@
 Script ucapan lebaran idul fitri 2023
 
 # Demo Site
- <a href="https://wafarifki.github.io/lebaran-2023/">https://wafarifki.github.io/lebaran-2023/</a>
+ <a href="https://wafarifki.github.io/lebaran-2023/">/</a>
 
 # Let's connect with me!
 <p>
